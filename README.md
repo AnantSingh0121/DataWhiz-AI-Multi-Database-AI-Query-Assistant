@@ -56,7 +56,7 @@ Create a `.env` file in the root directory and populate it with your credentials
 
 ```env
 # LLM Configuration
-GROQ_API_KEY=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
+GROQ_API_KEY=***************************************
 MODEL=meta-llama/llama-4-maverick-17b-128e-instruct-on_demand
 # Database Configuration
 SQL_DATABASE_URL=mysql+pymysql://user:pass@localhost:3306/ecommerce_db
